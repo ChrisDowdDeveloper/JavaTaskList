@@ -38,6 +38,8 @@ If you choose to save the task list:
 
 Enter the desired file name (without the .txt extension).
 The task list will be saved in a text file with the specified name.
+
+
 Getting Started
 To run this Java application on your local machine, follow these steps:
 
@@ -50,9 +52,3 @@ Open the project in your preferred Java development environment (e.g., IntelliJ 
 Compile and run the TaskList.java file.
 
 Follow the on-screen menu to interact with the To-Do List application.
-
-Contributing
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
